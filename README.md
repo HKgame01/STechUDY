@@ -1,4 +1,5 @@
-#STechUDY  ->  Study + Technology
+# STechUDY  ->  Study + Technology
+
 ## Inspiration👨🏻‍💻
 
 We as a team consisting of students understood how the pandemic took a toll on the educational sector and initially it seemed quite hard to concentrate and adapt to so many things at once, to get done with one assignment it took so many clicks and searches to get to the right resources and get into the right mood for it. So, we thought we could build something which makes this process a lot easier as compared to before.
